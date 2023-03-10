@@ -1,0 +1,15 @@
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\bin\Debug\net7.0\myApp.exe
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\bin\Debug\net7.0\myApp.deps.json
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\bin\Debug\net7.0\myApp.runtimeconfig.json
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\bin\Debug\net7.0\myApp.dll
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\bin\Debug\net7.0\myApp.pdb
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.csproj.AssemblyReference.cache
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.AssemblyInfoInputs.cache
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.AssemblyInfo.cs
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.dll
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\refint\myApp.dll
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.pdb
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\myApp.genruntimeconfig.cache
+C:\Users\Leder\Documents\GitHub\dot-net\MyApp\obj\Debug\net7.0\ref\myApp.dll
